@@ -21,4 +21,6 @@ month: could analysis monthly sales and day sales
 dataset: likely the raw data source
 data analysis: may contain processed insights or calculations.
 ## dashboard interface
-- <a href=
+- <a href="https://github.com/sudheerbabuk14/coffee-sales-unified-mentor-project/blob/main/coffe%20shop%20sales%20dashboard%20screenshot.png"> dashboard screenshot </a>
+## conclusion
+
