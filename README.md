@@ -23,4 +23,7 @@ data analysis: may contain processed insights or calculations.
 ## dashboard interface
 - <a href="https://github.com/sudheerbabuk14/coffee-sales-unified-mentor-project/blob/main/coffe%20shop%20sales%20dashboard%20screenshot.png"> dashboard screenshot </a>
 ## conclusion
+The DAX formula for calculating the Top-Selling Coffee Revenue dynamically provides valuable insights into your business performance by identifying the coffee type generating the highest revenue and its total contribution.
+## dashboard
+
 
